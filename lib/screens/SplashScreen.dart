@@ -25,8 +25,10 @@ class _SplashScreenState extends State<SplashScreen> {
       backgroundColor: Colors.yellowAccent,
 
       body: Center(
-        child: Image.asset('assets/images/splash.jpg'),
+       child: Text("NOTE KEEPING"),
+       // child: Image.asset('assets/images/splash.jpg'),
       ),
+
     );
   }
 }

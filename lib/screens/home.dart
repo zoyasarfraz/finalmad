@@ -1,3 +1,4 @@
+
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatelessWidget {
@@ -6,7 +7,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       body: Center(
           child: Text(
-            "Notes Keeping",
+            "Notes",
             style: TextStyle(fontSize: 25.0),
           )),
     );
